@@ -8,6 +8,7 @@ namespace GameIntro
         {
             ValidationManager validationManager;
             List<Gamer> gamers;
+
             public List<Gamer> Gamers
             {
                 get { return gamers; }
